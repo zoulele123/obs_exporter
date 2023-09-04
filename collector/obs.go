@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/zoulele123/obs_exporter/tree/master/config"
+	"github.com/zoulele123/obs_exporter/config"
 	"github.com/huaweicloud/huaweicloud-sdk-go-obs/obs"
 )
 
